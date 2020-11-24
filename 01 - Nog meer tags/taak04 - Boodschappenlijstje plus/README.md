@@ -11,17 +11,6 @@ Het is ook mogelijk om een lijst __in__ een lijst te maken. Bijvoorbeeld categor
 ```html
     <body>
 
-        <ul>
-            <li>Wilde dieren
-                <ul>
-                    <li>Leeuw</li>
-                    <li>Olifant</li>
-                    <li>Panda</li>
-                </ul>
-            </li>
-            <li>Hond</li>
-            <li>Kat</li>
-        </ul>
     </body>
 ```
 
