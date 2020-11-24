@@ -11,7 +11,7 @@ Om te kunnen navigeren op een website heeft een andere developer voor jou een na
 ### OPDRACHT
 
 1. Maak een index.html bestand in deze map
-2. Maak een artikel01.html pagina
+2. Maak een .html pagina
 3. Maak een artikel02.html pagina
 4. Maak een artikel03.html pagina
 5. Codeer de standaard tags op elke pagina (weet je ze even niet kijk dan bij FRONTEND-BASIC => 03-Basis HTML => taak 02)
