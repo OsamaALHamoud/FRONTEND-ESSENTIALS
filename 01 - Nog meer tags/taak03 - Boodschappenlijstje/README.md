@@ -17,7 +17,7 @@ Om elk apart item aan te geven gebruik je nog steeds `<li>` ofwel list-items.
 
 ```html
     <body>
-
+hte=
         <ul>
             <li>Hond</li>
             <li>Kat</li>
