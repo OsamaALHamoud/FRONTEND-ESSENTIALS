@@ -1,0 +1,32 @@
+h1{
+
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+
+
+
+.children{
+    padding: 5px;
+}
+
+.parent{
+    background-color: blue;
+}
+
+#child-1{
+    background-color: greenyellow;
+}
+
+#child-2{
+    background-color: orangered;
+    position: absolute;
+}
+
+#child-3{
+    background-color: slateblue;
+    position: fixed;
+    bottom: 0px;
+    
+}
