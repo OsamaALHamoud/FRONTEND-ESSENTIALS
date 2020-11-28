@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: forestgreen;
+    list-style-type: none;
+    padding: 10px;
+    border: solid 2px;
+    color:cornsilk;
+    
+
+
+}
+a{
+    color: ghostwhite;
+}
+body{
+    background-color:;
+}
