@@ -95,7 +95,7 @@ console.log(eenLegeVariabele); /* null */
    3. leeftijd
    4. ikBenStemGerechtig
    5. ikMagLegaalAlcoholKopen
-   6. ikMagBrommerRijden
+   6. let 
    7. SoftwareOntwikkeling
 3. Geen van de bovenstaande variabele mag _undefined_ zijn als je het zou testen in de console
 4. Gebruik de genoemde datatypes
