@@ -1,3 +1,12 @@
+document.querySelector("#poster1").style.backgroundColor = "blue";
+document.querySelector("#poster2").style.backgroundColor = "yellow";
+document.querySelector("#poster3").style.backgroundColor = "pink";
+
+
+
+
+
+
 let poster1 = document.querySelector("#poster1");
 let poster2 = document.querySelector("#poster2");
 let poster3 = document.querySelector("#poster3");
@@ -6,7 +15,7 @@ poster1.addEventListener("mousedown", playSound);
 poster2.addEventListener("mousedown", playSound);
 poster3.addEventListener("mousedown", playSound);
 
-let audiofiles = document.querySelectorAll("audio");
+//let audiofiles = document.querySelectorAll("audio");
 
 function playSound(event){
     let audio = this.querySelector("audio");

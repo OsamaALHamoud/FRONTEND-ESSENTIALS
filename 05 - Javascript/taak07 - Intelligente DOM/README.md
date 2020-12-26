@@ -20,7 +20,7 @@ Omdat dit zo is kunnen we dit in Javascript bekijken en veranderen.
 > Open dus `index.html` in je browser.
 > Open `script.js` om aanpassingen te doen in VS Code.
 
-Als je het object wilt bekijken dan kun je dat in de console doen:
+Als je het object wilt bekijken dan kun je dat in de consocomle doen:
 
 ```js
 console.log(document);
