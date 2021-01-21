@@ -1,0 +1,23 @@
+#Colombia{
+    width: 900px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+
+.yellow{
+    background-color: yellow;
+    width: 900px;
+    height: 290px;
+}
+
+.blue{
+    background-color:blue;
+    width: 900px;
+    height: 155px;
+}
+.red{
+    background-color:red;
+    width: 900px;
+    height: 155px;
+}

@@ -1,0 +1,50 @@
+.Noorwegen{
+
+    width: 900px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.row{
+    height: 250px;
+    
+}
+
+
+.red{
+    background-color: red;
+    height: 250px;
+    width: 500px;
+    display: inline-block;
+   transform: rotate(29dag);
+
+
+
+}
+
+
+.small{
+    width: 300px;
+    border-right: 95px solid white;
+
+}
+
+
+.white{
+    border-bottom: 98px solid white;
+    
+
+}
+
+
+.blue{
+   border-bottom: 50px solid rgb(20, 8, 238);
+   margin-top: 20px;
+   
+}
+
+
+
+
+
+}

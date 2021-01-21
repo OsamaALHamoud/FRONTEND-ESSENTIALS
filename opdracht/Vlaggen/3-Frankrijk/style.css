@@ -1,0 +1,28 @@
+.Frankrijk{
+    height: 600px;
+    width: 900px;
+    border: 1px solid black;
+    
+}
+
+
+.blue {
+    height: 600px;
+    width: 300px;
+    background-color: blue;
+    float: left;
+}
+
+.white{
+    height: 600px;
+    width: 300px;
+    background-color:white;
+    float: left;
+}
+
+.red{
+    height: 600px;
+    width: 300px;
+    background-color:red;
+    float: left;
+}

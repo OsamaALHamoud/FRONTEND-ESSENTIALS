@@ -1,0 +1,37 @@
+#Botswana{
+    width: 900px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.blue1{
+    background-color: rgb(79, 7, 223);
+    width: 900px;
+    height: 210px;
+
+}
+.white1{
+    background-color: white;
+    width: 900px;
+    height: 15px;
+    
+
+}
+.black{
+    background-color: rgb(27, 19, 19);
+    width: 900px;
+    height: 50px;
+}
+.whtie2{
+    background-color: white;
+    width: 900px;
+    height: 15px;
+    
+
+}
+.blue2{
+    background-color: rgb(79, 7, 223);
+    width: 900px;
+    height: 210px;
+
+}

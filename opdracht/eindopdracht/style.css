@@ -1,75 +1,54 @@
-
-.container{
-
-    display: flex;
-
+*{
+    padding: 0;
+    margin: 0;
     
 }
 
-.col{
-    margin: 2px;
-}
-
-.button{
-   ;
-
-    width: 700px;
-    height: 200px;
-    background-color: rgb(17, 16, 16);
-    display: flex;
-   
-}
-
-.zwart{
-    width:700px;
-    height:200px;
-    background-color:green;
-}
-.white{
-    width: 700px;
-    height: 200px;
-    background-color: #ffffff;
-    
-
-}
-
-}
-
-.button span{
-    
-    font-size: 2em;
-    font-family: consolas;
-    
-}
-
-.star{
-    color:black;
+.mune-bar{
+    background: rgb(31, 49, 35);
+    text-align: ;
+    height: 50px;
     
     
 }
+.mune-bar ul {
+    display: inline-flex;
+    list-style: none;
+}
+.mune-bar ul li{
+    
+    margin: 15px;
+    padding: 1px;
+     
+}
 
-.text{
-    padding: 20px;
+.mune-bar ul li a:hover{
+    text-decoration: none;
+  
+
     color: white;
-    font-size: 50px;
+    
+}
+.flag-icons{
+    color: white;
 
 }
 
-
-body{
-background-color:rgb(196, 186, 50);
-
-
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    
 }
-.star{
-color: red;
-font-size: 60px;
-
-display:flex;
-flex-direction: row;
-justify-content:center;
-
-
-
+.styled-table thead tr {
+    background-color: #1bcaa7;
+    color: #ffffff;
+    text-align: left;
 }
-
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}

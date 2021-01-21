@@ -1,0 +1,23 @@
+.Nederalnd{
+ height: 600px;
+ width: 900px;
+ border: 1px solid black;
+ 
+}
+
+.red{
+    height: 200px;
+    width: 200;
+    background-color:red;
+
+}
+.white{
+    height: 200px;
+    width: 200;
+    background-color:white;
+}
+.blue{
+    height: 200px;
+    width: 200;
+    background-color : blue;
+}

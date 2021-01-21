@@ -10,7 +10,7 @@ div{
 #container{
     width: 800px;
     height: 800px;
-    border: 1px solid black;
+    border: 5px solid black;
 }
 
 /* CSS class voor achtergrond die niet zichtbaar is voor het eindresultaat */
@@ -27,8 +27,8 @@ div{
     border-top: 15px solid black;
 }
 
-.border-links{
-    border-left: 15px solid black;
+.border-links{ 
+    border-left: 15px solid black (218, 17, 17);
 }
 
 .border-rechts{
@@ -59,6 +59,7 @@ div{
 
 /* Linkerkant */
 #links{
+    
     width: 20%;
     height: 100%;
 }
@@ -77,6 +78,9 @@ div{
 }
 
  /* Rechterkant */
+ .rechts{
+     l
+ }
 #rechts{
     width: 80%;
     height: 100%;
@@ -101,13 +105,14 @@ div{
 /* Rechtskant tweede rij */
 #rechts-rij-twee{
     height: 22%;
-    width: 100%;
+    width: 80%;
 }
 
 /* Rechtskant derde rij */
 #rechts-rij-drie{
     height: 22%;
-    width: 100%;
+    width: 50% ;
+    
 }
 
 /* Rechtskant vierde rij */
@@ -115,6 +120,5 @@ div{
     height: 31%;
     width: 100%;
 }
-
 
 

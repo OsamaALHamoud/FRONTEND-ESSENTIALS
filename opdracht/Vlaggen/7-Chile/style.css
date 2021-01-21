@@ -1,0 +1,33 @@
+#Chile{
+    width: 900px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.blue{
+ 
+    background-color: rgb(20, 20, 218);
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.white{
+ 
+    background-color: rgb(231, 231, 247);
+    width: 700px;
+    height: 200px;
+    float: left;
+}
+.red{
+ 
+    background-color:rgb(245, 48, 48);
+    width: px;
+    height:500px;
+    
+}
+.star{
+    font-size: 125px;
+    color: rgb(231, 231, 247);
+    display: flex;
+    justify-content: center;
+}
