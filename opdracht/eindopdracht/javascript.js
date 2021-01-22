@@ -3,33 +3,43 @@
 //opslaan in object
 // let getaal = 50;
 
-let persoon ={
-    voornaam: prompt("Wat is je voornaam?"),
-    achterNaam: prompt ("wat is je achternaam"),
-    age: prompt ("wat is je leeftijd")
-    
-}
 
+
+let persoon ={
+    voornaam: prompt ("Wat is je voornaam?"),
+    achternaam: prompt ("wat is je achternaam"),
+    age: prompt ("wat is je leeftijd"),
+    email: prompt("vul u E-mail  Adres in"),
+    woonplaats : prompt (" Vul u woonplaats in "),
+
+} 
 
 let age = persoon.age;
     
-    // todo: andere propertiesosamk
+// koptext
+document.getElementById("naam").innerHTML = persoon.voornaam+" "+ persoon.achternaam;
+
+
+//  in de table
+
+document.getElementById("voornaam").innerHTML = persoon.voornaam;
+document.getElementById("achternaam").innerHTML = persoon.achternaam;
+document.getElementById("leeftijd").innerHTML = persoon.age;
+document.getElementById("email").innerHTML = persoon.email;
+document.getElementById("woonplaats").innerHTML = persoon.woonplaats;
 
 
 
-//gegevens van object persoon in tabel zetten
+// laat alle gegevns op console zine 
+
+console.log(persoon);
 
 
 
-document.getElementById("naam").innerHTML = persoon.voornaam+" "+persoon.achterNaam,
-
-console.log(persoon.voornaam+" "+persoon.achterNaam+persoon.age);
+// als gbruker laat zijn leeftijd dan veranderd naar andere kluer 
 
 
-
-//gegevens van object persoon tonen in de console
-// check op persoon.leeftijd ipv age
- if (age == 16) {
+if (age == 16) {
 document.querySelector("body").style.backgroundColor = "orange";
 
 }
